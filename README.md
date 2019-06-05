@@ -14,7 +14,6 @@ Here are the results - https://github.com/aayushkothari11/Pokemon/blob/master/po
 Then I tried to run the same model on a much smaller dataset consisting of only 5 classes and got a Training and Test accuracy above 90%.
 <br>
 Here are the results - https://github.com/aayushkothari11/Pokemon/blob/master/Pokemon_small.ipynb
-
 <br><br>
 
 Then I tried Trasnfer Learning on VGG16 model pretrained on imagenet dataset and the results are - 
