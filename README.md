@@ -18,9 +18,11 @@ Here are the results - https://github.com/aayushkothari11/Pokemon/blob/master/Po
 <br><br>
 
 Then I tried Trasnfer Learning on VGG16 model pretrained on imagenet dataset and the results are - 
-With the entire dataset of 149 classes - https://github.com/aayushkothari11/Pokemon/blob/master/pokemon_transferLearning.ipynb
-With only 5 classes - https://github.com/aayushkothari11/Pokemon/blob/master/pokemon_transferLearning_small.ipynb
 <br>
+With the entire dataset of 149 classes - https://github.com/aayushkothari11/Pokemon/blob/master/pokemon_transferLearning.ipynb
+<br>
+With only 5 classes - https://github.com/aayushkothari11/Pokemon/blob/master/pokemon_transferLearning_small.ipynb
+<br><br>
 Well in this case I trained on only 10 epochs because I was bored by all the waiting. Training for more epochs can increase the accuracy(I hope so).
 
 <br><br>
