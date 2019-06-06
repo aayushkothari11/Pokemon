@@ -16,7 +16,7 @@ Then I tried to run the same model on a much smaller dataset consisting of only 
 Here are the results - https://github.com/aayushkothari11/Pokemon/blob/master/Pokemon_small.ipynb
 <br><br>
 
-Then I tried Trasnfer Learning on VGG16 model pretrained on imagenet dataset and the results are - 
+Then I tried Transfer Learning on VGG16 model pretrained on imagenet dataset and the results are - 
 <br>
 With the entire datase - https://github.com/aayushkothari11/Pokemon/blob/master/pokemon_transferLearning.ipynb
 <br>
